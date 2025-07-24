@@ -1,1 +1,0 @@
-# tripay-callback
